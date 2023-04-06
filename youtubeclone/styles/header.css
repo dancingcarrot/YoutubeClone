@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 .header{
     height: 55px;
 
@@ -149,7 +149,7 @@
 .current-user-picture{
     height: 32px;
     border-radius: 16px;/*height의 반을 설정하면 동그라미가 된다.*/
-=======
+}
 .header{
     height: 55px;
 
@@ -306,5 +306,5 @@
 .current-user-picture{
     height: 32px;
     border-radius: 16px;/*height의 반을 설정하면 동그라미가 된다.*/
->>>>>>> 4bedacfaf50c062c85e5dccf3a024f6ec52fac92
+
 }
